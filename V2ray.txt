@@ -1,29 +1,17 @@
-vmess://eyJhZGQiOiI5MS4xMDcuMTUwLjE0NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6ImludGVybmV0LmxpZmUuY29tLmJ5IiwiaWQiOiJkMjBlMzhlZi0xYTRkLTQwMDktYTAwZC0yZjBkNDRlM2M2NWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vless://a3d266fa-187c-4a8d-a5f5-b5f78fa3005e@45.65.113.243:2083?security=reality&encryption=none&pbk=2Dt29qQIpsej5TryyTjMh0UFbmQxU_WbpUE7jHk4kF4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.azaronline.com&sid=0c15bdbf#DE-45.65.113.243+%40v2raayngconfig
 
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.59.21.131:443#%F0%9F%87%AB%F0%9F%87%B737.59.21.131
+vless://75c234ff-454b-4366-b9bb-fb3907c16fc1@167.71.51.41:53779?mode=gun&security=reality&encryption=none&pbk=_fTAxKe3CE3BeHmSqGuPqH-smpkNJgCI5bKg2yIiWx8&fp=firefox&type=grpc&serviceName=&sni=dash.cloudflare.com&sid=f00cedfb#DE-167.71.51.41%3A53779+%40v2raayngconfig
 
-vmess://eyJhZGQiOiI5MS4xMDcuMTUxLjY4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiaW50ZXJuZXQubGlmZS5jb20uYnkiLCJpZCI6IjNkMWZhYjZlLTNiZDYtNDcyYi04ZDljLTk5MzRjMDRlYWY0MCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+vless://dd8c47e7-2756-4c06-937d-53cd0261cc9c@45.79.251.90:24824?path=%2F&security=none&encryption=none&host=internet.life.com.by&type=ws#DE-45.79.251.90%3A24824+%40v2raayngconfig
 
-vmess://eyJhZGQiOiI5MS4xMDcuMjU0LjI0NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6ImludGVybmV0LmxpZmUuY29tLmJ5IiwiaWQiOiJkMjBlMzhlZi0xYTRkLTQwMDktYTAwZC0yZjBkNDRlM2M2NWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vless://c74262ce-76a5-49fa-881b-c1cc59f861e6@45.65.113.243:443?mode=gun&security=reality&encryption=none&pbk=4ZMSuTNzxQdMdjVFVAmjw2JhUBJVBk5_ZUItIDDzg0M&fp=chrome&type=grpc&serviceName=&sni=mega.io&sid=4d135c07#DE-45.65.113.243%3A443+%40v2raayngconfig
 
-vmess://eyJhZGQiOiI5MS4xMDcuMTU2Ljg4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiaW50ZXJuZXQubGlmZS5jb20uYnkiLCJpZCI6IjNkMWZhYjZlLTNiZDYtNDcyYi04ZDljLTk5MzRjMDRlYWY0MCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+vless://ebfeb952-273c-4f85-bb64-74331600594a@45.65.113.158:11208?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#DE-45.65.113.158%3A11208+%40v2raayngconfig
 
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@57.128.75.84:443#%F0%9F%87%AB%F0%9F%87%B757.128.75.84
+vless://5f9b21aa-c739-48ff-bb62-ed545ddcaf5b@168.119.234.19:443?mode=gun&security=reality&encryption=none&pbk=mlGup6Q4-sa9Uvb_tbbax4_KxcWnpO6cT2SpC1yWow8&fp=chrome&type=grpc&serviceName=&sni=wordpress.org&sid=e9a6c28c#DE-168.119.234.19%3A443+%40v2raayngconfig
 
-vmess://eyJhZGQiOiI5MS4xMDcuMjQ0LjIyOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6ImludGVybmV0LmxpZmUuY29tLmJ5IiwiaWQiOiIzZDFmYWI2ZS0zYmQ2LTQ3MmItOGQ5Yy05OTM0YzA0ZWFmNDAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vless://f605f4cf-5171-4a9c-a906-586ad22a0c4a@167.235.135.134:44354?mode=gun&security=reality&encryption=none&pbk=oQoMSSoDRwPKbMbgfoCq2EC34UpDE21zaZs8hfZ0wTk&fp=firefox&type=grpc&serviceName=&sni=gsmarena.com&sid=06094c58#DE-167.235.135.134%3A44354+%40v2raayngconfig
 
-vmess://eyJhZGQiOiI5MS4xMDcuMjQ3LjE3OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6ImludGVybmV0LmxpZmUuY29tLmJ5IiwiaWQiOiIzZDFmYWI2ZS0zYmQ2LTQ3MmItOGQ5Yy05OTM0YzA0ZWFmNDAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vless://0d7bf511-8eba-4a32-8341-5a1fd66d3e4d@116.203.182.178:31107?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#DE-116.203.182.178%3A31107+%40v2raayngconfig
 
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.170.212:443#%F0%9F%87%A9%F0%9F%87%AA162.19.170.212
-
-vmess://eyJhZGQiOiI5MS4xMDcuMTUxLjI0NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6ImludGVybmV0LmxpZmUuY29tLmJ5IiwiaWQiOiJkMjBlMzhlZi0xYTRkLTQwMDktYTAwZC0yZjBkNDRlM2M2NWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@57.128.141.14:443#%F0%9F%87%AC%F0%9F%87%A757.128.141.14
-
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.59.166:443#%F0%9F%87%AB%F0%9F%87%B7162.19.59.166
-
-vmess://eyJhZGQiOiI5MS4xMDcuMjU1LjIzOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6ImludGVybmV0LmxpZmUuY29tLmJ5IiwiaWQiOiJkMjBlMzhlZi0xYTRkLTQwMDktYTAwZC0yZjBkNDRlM2M2NWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiI5MS4xMDcuMjQzLjU4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiaW50ZXJuZXQubGlmZS5jb20uYnkiLCJpZCI6IjNkMWZhYjZlLTNiZDYtNDcyYi04ZDljLTk5MzRjMDRlYWY0MCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiI5NC4xMzAuMjQuMTEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiaW50ZXJuZXQubGlmZS5jb20uYnkiLCJpZCI6IjkwZTk2OGY1LTU4YTUtNDJjZS1hMmRlLWM4MTg5NDA1NDU2MyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwODMiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vless://3380ce52-845d-4071-b7b8-098b5d16280c@91.107.215.62:56068?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#DE-91.107.215.62%3A56068+%40v2raayngconfig
